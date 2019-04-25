@@ -1,0 +1,8 @@
+usage: mp_transform.py [-h] --read-dir READ_DIR --write-dir WRITE_DIR
+
+Transform images in a directory into lighting invariant color space
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --read-dir READ_DIR
+  --write-dir WRITE_DIR
